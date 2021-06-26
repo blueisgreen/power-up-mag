@@ -1,0 +1,364 @@
+{
+  "articles": [
+    {
+      "id": "blargy123",
+      "headline": "Gen IV Power Plant Approved for Construction",
+      "byline": "Blargy and Blazzo",
+      "createdAt": "2020-04-01T01:23:45.678Z",
+      "updatedAt": "2020-04-02T01:23:45.678Z",
+      "publishedAt": "2020-04-02T01:25:45.678Z",
+      "content": "<p>This is amazing. OMG. Why don't we have more news like this. The future is going to be great. Just you wait and see.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <b>tempor</b> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap",
+      "headline": "Safe and Plentiful, Don't you know it? Bah",
+      "byline": "Zanzibar, Nuclear Hero, Badoongy face, Blah",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "publishedAt": "2020-07-02T01:25:45.678Z",
+      "content": "<p>Nuclear power is safe for the climate and we have <em>lots</em> of fuel. Now comes the real trick. Bordon.</p>"
+    },
+    {
+      "id": "wazzap1",
+      "headline": "And Another Thing 1",
+      "byline": "Zanzibar",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap2",
+      "headline": "And Another Thing 2",
+      "byline": "Zanzibar",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap3",
+      "headline": "And Another Thing 3",
+      "byline": "Zanzibar",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap4",
+      "headline": "And Another Thing 4",
+      "byline": "Zanzibar",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap5",
+      "headline": "And Another Thing 5",
+      "byline": "Zanzibar",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap6",
+      "headline": "And Another Thing 6",
+      "byline": "Zanzibar",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "wazzap3",
+      "headline": "Now is the time for swift action.",
+      "byline": "Zanzibar, Nuclear Hero",
+      "createdAt": "2020-05-01T01:23:45.678Z",
+      "updatedAt": "2020-06-02T01:23:45.678Z",
+      "publishedAt": "2020-07-02T01:25:45.678Z",
+      "content": "<p>Nuclear power is safe for the climate and we have <em>lots</em> of fuel.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+    },
+    {
+      "id": "blargy1",
+      "headline": "Wumpus",
+      "byline": "Wumpus",
+      "content": "Wumpadoodle"
+    }
+  ],
+  "courses": [
+    {
+      "id": "nuclearPhysicsFundamentals",
+      "title": "Nuclear Physics Fundamentals",
+      "synopsis": "Explores the fundamental concepts of nuclear science. Isotopes. Radioactive decay. Neutrons. Chain reactions.",
+      "courseUnits": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "genIVNuclear",
+      "title": "Generation IV Nuclear Power",
+      "synopsis": "Explains the goals of generation IV nuclear power. Provides an overview of reactor types and safety measures.",
+      "courseUnits": [
+        5
+      ]
+    },
+    {
+      "id": "learningFromAccidents",
+      "title": "Learning from Nuclear Accidents",
+      "synopsis": "Nuclear energy has a nasty reputation. Some of it is earned due to accidents and careless behavior. This course takes a look at what has gone wrong so far and what we have learned from the experience.",
+      "courseUnits": [
+        6
+      ]
+    }
+  ],
+  "courseUnits": [
+    {
+      "id": 1,
+      "unit": "Radioactivity",
+      "createdOn": "2020-04-01",
+      "updatedAt": "2020-04-01T00:00:01.000Z",
+      "lessons": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": 2,
+      "unit": "Fission",
+      "createdOn": "2020-04-01",
+      "updatedAt": "2020-04-01T00:00:01.000Z",
+      "lessons": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "unit": "Radiation",
+      "createdOn": "2020-04-01",
+      "updatedAt": "2020-04-01T00:00:01.000Z",
+      "lessons": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 4,
+      "unit": "Controlled Nuclear Reactions",
+      "createdOn": "2020-04-01",
+      "updatedAt": "2020-04-01T00:00:01.000Z",
+      "lessons": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": 5,
+      "unit": "Generation IV Nuclear Power",
+      "createdOn": "2020-04-01",
+      "updatedAt": "2020-04-01T00:00:01.000Z",
+      "lessons": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "id": 6,
+      "unit": "Famous Nuclear Accidents",
+      "createdOn": "2020-04-01",
+      "updatedAt": "2020-04-01T00:00:01.000Z",
+      "lessons": [
+        18,
+        19,
+        20
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Why Atoms Split",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fission Math",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chain Reactions",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Controlling Neutrons",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Properties of Isotopes",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Radiation is Everywhere",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Right Dose for the Job",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Effects on Materials",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Building Bombs",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Generating Power",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Medical Treatment",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Scientific and Medical Breakthroughs",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Stable, Safe, Clean Power Production",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Types of Gen IV Nuclear Reactors",
+      "content": [
+        "uniqueKey1",
+        "uniqueKey2a",
+        "uniqueKey2b"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "They Can Almost Fit in Your Pocket (SMRs)",
+      "content": [
+        "uniqueKey3"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Safety Factors",
+      "content": [
+        "uniqueKey4"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "What About Accidents?",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "9 Mile Island",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Chernobyl",
+      "content": [
+        "uniqueKey0"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Fukushima",
+      "content": [
+        "uniqueKey0"
+      ]
+    }
+  ],
+  "contentBlocks": [
+    {
+      "id": "uniqueKey0",
+      "type": "text",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "uniqueKey1",
+      "type": "text",
+      "content": "When it comes to liquid, it's pretty common to think of water. However, many materials melt when things get hot enough. Salt is one such material. Let's learn about how molten salt can be used in a nuclear reactor."
+    },
+    {
+      "id": "uniqueKey2a",
+      "type": "text",
+      "content": "The melting point of salt is perfect for handling the heat of a nuclear reaction.The vapor point is also much higher than a nuclear react will get, even if things get a little overheated. Also, as we know, when salt cools it turns into a solid."
+    },
+    {
+      "id": "uniqueKey2b",
+      "type": "illustration",
+      "sourceUrl": "https://cdn.powerup-im.com/images/lessons/MSR-schematic.png",
+      "caption": "Schematic for molten salt reactor",
+      "explanation": "This is a schematic of a molten salt reactor. On the left, you can see where the heat is generated. On the right, you see where electricity is generated. All of the pipes are there to move liquid salt and cooling water. Isn't that interesting?"
+    },
+    {
+      "id": "uniqueKey3",
+      "type": "video",
+      "sourceUrl": "https://cdn.powerup-im.com/videos/molten-salt-reactors-in-action.mov",
+      "title": "How a molten salt reactor works",
+      "caption": "Video about molten salt reactors"
+    },
+    {
+      "id": "uniqueKey4",
+      "type": "text",
+      "content": "How does an MSR reactor keep the salt from getting too cool. And how does the salt reliquify once it does, say when the reactor is starting up? These are engineering challenges."
+    }
+  ]
+}
