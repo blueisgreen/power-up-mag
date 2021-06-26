@@ -48,7 +48,7 @@ module.exports = configure(function (ctx) {
     // Full list of options: https://v2.quasar.dev/quasar-cli/quasar-conf-js#Property%3A-build
     build: {
       vueRouterMode: 'history', // available values: 'hash', 'history'
-      env: envparser,
+      env: envparser(),
 
       // https://v2.quasar.dev/quasar-cli/handling-webpack
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain
@@ -61,11 +61,11 @@ module.exports = configure(function (ctx) {
     // Full list of options: https://v2.quasar.dev/quasar-cli/quasar-conf-js#Property%3A-devServer
     devServer: {
       https: false,
-      port: 8080,
+      port: process.env.PORT,
       open: true, // opens browser window automatically
       proxy: {
         '/api' : {
-          target: 'http://localhost:3000',
+          target: process.env.API_BASE,
           changeOrigin: true,
           pathRewrite: {
             '^/api': ''
